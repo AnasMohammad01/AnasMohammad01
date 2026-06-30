@@ -140,7 +140,6 @@ Artificial Intelligence Engineer | Machine Learning | Deep Learning | Computer V
 
 # 📫 Connect With Me
 
-<p align="center">
 
 <a href="https://github.com/AnasMohammad01" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
