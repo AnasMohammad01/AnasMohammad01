@@ -1,150 +1,161 @@
-<h1 align="center">
-  Hi, I'm Anas Mohammad
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-</h1>
+# Hi, I'm Anas Mohammad 👋
 
-<h3 align="center">
-Artificial Intelligence • Machine Learning • Deep Learning Engineer
-</h3>
+### Artificial Intelligence • Machine Learning • Deep Learning Engineer
 
+```{=html}
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Machine+Learning+Engineer;Deep+Learning+Enthusiast;Computer+Vision+Developer;Data+Science+%26+MLOps;Always+Learning+New+Technologies" />
+```
+`<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Machine+Learning+Engineer;Deep+Learning+Enthusiast;Computer+Vision+Developer;Data+Science+%26+MLOps;Always+Learning+New+Technologies" />`{=html}
+```{=html}
 </p>
-
+```
+```{=html}
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=AnasMohammad01&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+```
+`<img src="https://komarev.com/ghpvc/?username=AnasMohammad01&label=Profile%20Views&style=for-the-badge"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
 # 🚀 About Me
 
-- 🎓 Artificial Intelligence Engineering Student
-- 🤖 Passionate about Artificial Intelligence, Machine Learning & Deep Learning
-- 👁️ Interested in Computer Vision & Medical AI
-- 📊 Data Science & Data Analysis Enthusiast
-- ⚙️ Interested in MLOps, Model Deployment & Experiment Tracking
-- 💻 Strong Problem Solving & Algorithmic Thinking
-- 🌱 Currently learning Advanced Deep Learning, Transformers & MLOps
-- 🚀 Always building AI projects and exploring new technologies
-
----
+-   🎓 Artificial Intelligence Engineering Student
+-   🤖 Passionate about Artificial Intelligence, Machine Learning & Deep
+    Learning
+-   👁️ Computer Vision & Medical AI
+-   📊 Data Science & Data Analysis
+-   ⚙️ MLOps & Experiment Tracking
+-   💻 Strong Problem Solving & Algorithmic Thinking
+-   🌱 Learning Advanced Deep Learning, Transformers & MLOps
 
 # 💻 Tech Stack
 
 ## 👨‍💻 Programming Languages
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,cs"/>
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=python,cpp,cs,mysql"/>`{=html}
+```{=html}
 </p>
+```
+## 🤖 AI & ML
 
----
-
-## 🤖 AI • Machine Learning • Deep Learning
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
-
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>`{=html}
+`<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>`{=html}
+```{=html}
 </p>
-
----
-
+```
 ## 📊 Data Science
 
-<p align="left">
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-
+```{=html}
+<p>
+```
+`<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>`{=html}
+`<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>`{=html}
+`<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>`{=html}
+`<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>`{=html}
+```{=html}
 </p>
+```
+## 📚 Mathematics for AI & Machine Learning
 
----
-
+```{=html}
+<p>
+```
+`<img src="https://img.shields.io/badge/Linear%20Algebra-4285F4?style=for-the-badge"/>`{=html}
+`<img src="https://img.shields.io/badge/Calculus-E91E63?style=for-the-badge"/>`{=html}
+`<img src="https://img.shields.io/badge/Probability-00ACC1?style=for-the-badge"/>`{=html}
+`<img src="https://img.shields.io/badge/Statistics-FF9800?style=for-the-badge"/>`{=html}
+```{=html}
+</p>
+```
 ## ⚙️ MLOps
 
-<p align="left">
-
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Weave-FFBE00?style=for-the-badge"/>
-
+```{=html}
+<p>
+```
+`<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>`{=html}
+`<img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black"/>`{=html}
+`<img src="https://img.shields.io/badge/Weave-FFBE00?style=for-the-badge"/>`{=html}
+```{=html}
 </p>
-
----
-
+```
 ## 🛠 Development Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,bash"/>
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,bash"/>`{=html}
+```{=html}
 </p>
+```
+## 🧠 Core Skills
 
----
+-   Problem Solving
+-   Data Structures & Algorithms
+-   Machine Learning
+-   Deep Learning
+-   Computer Vision
+-   Medical Image Analysis
+-   Data Analysis
+-   Data Visualization
+-   MLOps
+-   Research & Experimentation
 
-# 🧠 Core Skills
+# 📈 GitHub Statistics
 
-- 🧩 Problem Solving
-- 📐 Data Structures & Algorithms
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 👁️ Computer Vision
-- 🏥 Medical Image Analysis
-- 📊 Data Analysis
-- 📈 Data Visualization
-- ⚙️ MLOps
-- 🔬 Model Evaluation
-- 📝 Research & Experimentation
-
----
-
-
+```{=html}
+<p align="center">
+```
+`<img height="180" src="https://github-readme-stats.vercel.app/api?username=AnasMohammad01&show_icons=true&theme=tokyonight"/>`{=html}
+`<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasMohammad01&layout=compact&theme=tokyonight"/>`{=html}
+```{=html}
+</p>
+```
 # 📈 Contribution Graph
 
+```{=html}
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnasMohammad01&theme=tokyo-night&hide_border=true"/>
-
+```
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnasMohammad01&theme=tokyo-night&hide_border=true"/>`{=html}
+```{=html}
 </p>
-
----
-
+```
 # ⚡ GitHub Summary
 
+```{=html}
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnasMohammad01&theme=tokyonight"/>
-
+```
+`<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnasMohammad01&theme=tokyonight"/>`{=html}
+```{=html}
 </p>
-
----
-
+```
 # 📫 Connect With Me
 
-
-<a href="https://github.com/AnasMohammad01" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/anas-mohammad-ba2923291" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
-</a>
-
+```{=html}
+<p align="center">
+```
+`<a href="https://github.com/AnasMohammad01">`{=html}`<img src="https://skillicons.dev/icons?i=github" height="50"/>`{=html}`</a>`{=html}
+ 
+`<a href="https://www.linkedin.com/in/anas-mohammad-ba2923291">`{=html}`<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>`{=html}`</a>`{=html}
+ 
+`<a href="mailto:anas.mohammad.0110@gmail.com">`{=html}`<img src="https://skillicons.dev/icons?i=gmail" height="50"/>`{=html}`</a>`{=html}
+```{=html}
 </p>
-
-
+```
+```{=html}
+<p align="center">
+```
+`<b>`{=html}📧 anas.mohammad.0110@gmail.com`</b>`{=html}
+```{=html}
+</p>
+```
 # 💭 Favorite Quote
 
-<p align="center">
-
 > **"The best way to predict the future is to build it with AI."**
-
-</p>
