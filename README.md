@@ -1,6 +1,6 @@
 <h1 align="center">
-Hi, I'm Anas Mohammad
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  Hi, I'm Anas Mohammad
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h1>
 
 <h3 align="center">
@@ -8,36 +8,25 @@ Artificial Intelligence • Machine Learning • Deep Learning Engineer
 </h3>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Engineer;Machine+Learning+Engineer;Deep+Learning+Enthusiast;Computer+Vision+Developer;Data+Science+%26+MLOps"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Machine+Learning+Engineer;Deep+Learning+Enthusiast;Computer+Vision+Developer;Data+Science+%26+MLOps;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
+<img src="https://komarev.com/ghpvc/?username=AnasMohammad01&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
 # 🚀 About Me
 
-🎓 Artificial Intelligence Engineering Student
-
-🤖 Passionate about Artificial Intelligence & Machine Learning
-
-🧠 Interested in Deep Learning & Computer Vision
-
-📊 Data Science & Data Analysis Enthusiast
-
-⚙️ MLOps, Model Deployment & Experiment Tracking
-
-💻 Strong Problem Solving & Algorithmic Thinking
-
-🌱 Currently learning Advanced Deep Learning, Transformers and MLOps
-
-🚀 Always building AI projects and learning new technologies
+- 🎓 Artificial Intelligence Engineering Student
+- 🤖 Passionate about Artificial Intelligence, Machine Learning & Deep Learning
+- 👁️ Interested in Computer Vision & Medical AI
+- 📊 Data Science & Data Analysis Enthusiast
+- ⚙️ Interested in MLOps, Model Deployment & Experiment Tracking
+- 💻 Strong Problem Solving & Algorithmic Thinking
+- 🌱 Currently learning Advanced Deep Learning, Transformers & MLOps
+- 🚀 Always building AI projects and exploring new technologies
 
 ---
 
@@ -45,21 +34,19 @@ Artificial Intelligence • Machine Learning • Deep Learning Engineer
 
 ## 👨‍💻 Programming Languages
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c" />
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,cs"/>
 </p>
 
 ---
 
 ## 🤖 AI • Machine Learning • Deep Learning
 
-<p>
+<p align="left">
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
 
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
 </p>
 
@@ -67,15 +54,15 @@ Artificial Intelligence • Machine Learning • Deep Learning Engineer
 
 ## 📊 Data Science
 
-<p>
+<p align="left">
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge">
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 
 </p>
 
@@ -83,13 +70,13 @@ Artificial Intelligence • Machine Learning • Deep Learning Engineer
 
 ## ⚙️ MLOps
 
-<p>
+<p align="left">
 
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white">
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black">
+<img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Weave-FFBE00?style=for-the-badge">
+<img src="https://img.shields.io/badge/Weave-FFBE00?style=for-the-badge"/>
 
 </p>
 
@@ -97,21 +84,20 @@ Artificial Intelligence • Machine Learning • Deep Learning Engineer
 
 ## 🛠 Development Tools
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,bash" />
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,bash"/>
 </p>
 
 ---
 
-## 🧩 Core Skills
+# 🧠 Core Skills
 
-- 🧠 Problem Solving
+- 🧩 Problem Solving
 - 📐 Data Structures & Algorithms
 - 🤖 Machine Learning
 - 🧠 Deep Learning
-- 👁 Computer Vision
+- 👁️ Computer Vision
+- 🏥 Medical Image Analysis
 - 📊 Data Analysis
 - 📈 Data Visualization
 - ⚙️ MLOps
@@ -124,29 +110,29 @@ Artificial Intelligence • Machine Learning • Deep Learning Engineer
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnasMohammad01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasMohammad01&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnasMohammad01&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# ⚡ GitHub Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnasMohammad01&theme=tokyonight"/>
 
 </p>
 
@@ -156,13 +142,25 @@ Artificial Intelligence • Machine Learning • Deep Learning Engineer
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/AnasMohammad01" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/anas-mohammad-ba2923291" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://github.com/AnasMohammad01/AnasMohammad01/blob/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -170,4 +168,8 @@ Artificial Intelligence • Machine Learning • Deep Learning Engineer
 
 # 💭 Favorite Quote
 
+<p align="center">
+
 > **"The best way to predict the future is to build it with AI."**
+
+</p>
