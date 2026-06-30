@@ -136,24 +136,13 @@ Artificial Intelligence • Machine Learning • Deep Learning Engineer
 </a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
-
+<p align="center">
 <a href="https://www.linkedin.com/in/anas-mohammad-ba2923291" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
 </p>
 
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://github.com/AnasMohammad01/AnasMohammad01/blob/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
 
 # 💭 Favorite Quote
 
