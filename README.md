@@ -106,17 +106,6 @@ Artificial Intelligence • Machine Learning • Deep Learning Engineer
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnasMohammad01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasMohammad01&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
