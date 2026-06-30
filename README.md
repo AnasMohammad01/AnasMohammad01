@@ -1,19 +1,21 @@
 <h1 align="center">
-Hi 👋, I'm <strong>Anas Mohammad</strong>
+Hi, I'm Anas Mohammad
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h1>
 
 <h3 align="center">
-Artificial Intelligence Engineer | Machine Learning Researcher
+Artificial Intelligence • Machine Learning • Deep Learning Engineer
 </h3>
 
 <p align="center">
-Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Data Science, and MLOps.
-I enjoy solving complex real-world problems, building intelligent systems, conducting AI research, and developing scalable machine learning solutions.
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Engineer;Machine+Learning+Engineer;Deep+Learning+Enthusiast;Computer+Vision+Developer;Data+Science+%26+MLOps"/>
+
 </p>
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
 
@@ -21,31 +23,39 @@ I enjoy solving complex real-world problems, building intelligent systems, condu
 
 # 🚀 About Me
 
-- 🎓 Artificial Intelligence Engineering Student
-- 🤖 Machine Learning & Deep Learning Enthusiast
-- 👁️ Computer Vision Researcher
-- 📊 Data Science & Data Analytics
-- 🧠 Strong Problem Solving & Algorithmic Thinking
-- 📑 Interested in AI Research and Scientific Publications
-- ⚙️ MLOps & Model Deployment
-- 🔬 Building AI systems from research to production
-- 🌱 Currently exploring Explainable AI, Medical AI and Advanced Deep Learning
+🎓 Artificial Intelligence Engineering Student
+
+🤖 Passionate about Artificial Intelligence & Machine Learning
+
+🧠 Interested in Deep Learning & Computer Vision
+
+📊 Data Science & Data Analysis Enthusiast
+
+⚙️ MLOps, Model Deployment & Experiment Tracking
+
+💻 Strong Problem Solving & Algorithmic Thinking
+
+🌱 Currently learning Advanced Deep Learning, Transformers and MLOps
+
+🚀 Always building AI projects and learning new technologies
 
 ---
 
 # 💻 Tech Stack
 
-## Programming Languages
+## 👨‍💻 Programming Languages
 
-<p align="left">
+<p>
+
 <img src="https://skillicons.dev/icons?i=python,cpp,c" />
+
 </p>
 
 ---
 
-## AI • Machine Learning • Deep Learning
+## 🤖 AI • Machine Learning • Deep Learning
 
-<p align="left">
+<p>
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 
@@ -55,9 +65,9 @@ I enjoy solving complex real-world problems, building intelligent systems, condu
 
 ---
 
-## Data Science
+## 📊 Data Science
 
-<p align="left">
+<p>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 
@@ -71,9 +81,9 @@ I enjoy solving complex real-world problems, building intelligent systems, condu
 
 ---
 
-## MLOps
+## ⚙️ MLOps
 
-<p align="left">
+<p>
 
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white">
 
@@ -85,32 +95,28 @@ I enjoy solving complex real-world problems, building intelligent systems, condu
 
 ---
 
-## Development Tools
+## 🛠 Development Tools
 
-<p align="left">
+<p>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
-
-<img src="https://img.shields.io/badge/Linux_Command_Line-black?style=for-the-badge&logo=gnu-bash">
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,bash" />
 
 </p>
 
 ---
 
-# 🧠 Core Skills
+## 🧩 Core Skills
 
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Data Analysis
-- Data Visualization
-- Scientific Research
-- Research Paper Implementation
-- Problem Solving
-- Model Evaluation
-- Feature Engineering
-- MLOps
-- Git Workflow
+- 🧠 Problem Solving
+- 📐 Data Structures & Algorithms
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 👁 Computer Vision
+- 📊 Data Analysis
+- 📈 Data Visualization
+- ⚙️ MLOps
+- 🔬 Model Evaluation
+- 📝 Research & Experimentation
 
 ---
 
@@ -118,11 +124,15 @@ I enjoy solving complex real-world problems, building intelligent systems, condu
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
 </p>
+
+---
+
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -132,11 +142,11 @@ I enjoy solving complex real-world problems, building intelligent systems, condu
 
 ---
 
-# 🏆 GitHub Trophy
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
 
 </p>
 
@@ -158,6 +168,6 @@ I enjoy solving complex real-world problems, building intelligent systems, condu
 
 ---
 
-# 💡 Favorite Quote
+# 💭 Favorite Quote
 
-> **"Artificial Intelligence is not replacing humans; it is empowering those who know how to use it."**
+> **"The best way to predict the future is to build it with AI."**
