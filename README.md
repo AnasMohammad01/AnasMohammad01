@@ -1,49 +1,63 @@
-## Hi there 👋
 <h1 align="center">
-Hi there, I'm Anas Mohammad
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+Hi 👋, I'm <strong>Anas Mohammad</strong>
 </h1>
 
 <h3 align="center">
-Artificial Intelligence & Machine Learning Engineer
+Artificial Intelligence Engineer | Machine Learning Researcher
 </h3>
 
 <p align="center">
 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Data Science, and MLOps.
-I enjoy building intelligent systems, analyzing data, and deploying scalable AI solutions.
+I enjoy solving complex real-world problems, building intelligent systems, conducting AI research, and developing scalable machine learning solutions.
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🎓 Artificial Intelligence Engineering Student
-- 🤖 Interested in Machine Learning & Deep Learning
-- 👁️ Computer Vision Enthusiast
-- 📊 Data Analysis & Data Science
+- 🤖 Machine Learning & Deep Learning Enthusiast
+- 👁️ Computer Vision Researcher
+- 📊 Data Science & Data Analytics
+- 🧠 Strong Problem Solving & Algorithmic Thinking
+- 📑 Interested in AI Research and Scientific Publications
 - ⚙️ MLOps & Model Deployment
-- 🌱 Currently learning Advanced Deep Learning & MLOps
-- 💡 Always exploring new AI technologies
+- 🔬 Building AI systems from research to production
+- 🌱 Currently exploring Explainable AI, Medical AI and Advanced Deep Learning
 
 ---
 
 # 💻 Tech Stack
 
-### Programming Languages
+## Programming Languages
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=python,cpp,c" />
 </p>
 
-### AI & Machine Learning
+---
 
-<p>
+## AI • Machine Learning • Deep Learning
+
+<p align="left">
+
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+
 </p>
 
-### Data Science
+---
 
-<p>
+## Data Science
+
+<p align="left">
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 
@@ -51,11 +65,15 @@ I enjoy building intelligent systems, analyzing data, and deploying scalable AI 
 
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
 
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge">
+
 </p>
 
-### MLOps
+---
 
-<p>
+## MLOps
+
+<p align="left">
 
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white">
 
@@ -65,15 +83,13 @@ I enjoy building intelligent systems, analyzing data, and deploying scalable AI 
 
 </p>
 
-### Development Tools
+---
 
-<p>
+## Development Tools
+
+<p align="left">
+
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
-</p>
-
-### Command Line
-
-<p>
 
 <img src="https://img.shields.io/badge/Linux_Command_Line-black?style=for-the-badge&logo=gnu-bash">
 
@@ -81,7 +97,24 @@ I enjoy building intelligent systems, analyzing data, and deploying scalable AI 
 
 ---
 
-# 📈 GitHub Stats
+# 🧠 Core Skills
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Data Analysis
+- Data Visualization
+- Scientific Research
+- Research Paper Implementation
+- Problem Solving
+- Model Evaluation
+- Feature Engineering
+- MLOps
+- Git Workflow
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
 
@@ -91,10 +124,6 @@ I enjoy building intelligent systems, analyzing data, and deploying scalable AI 
 
 </p>
 
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
@@ -103,9 +132,19 @@ I enjoy building intelligent systems, analyzing data, and deploying scalable AI 
 
 ---
 
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
 # 📫 Connect With Me
 
-<p>
+<p align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
 <img src="https://skillicons.dev/icons?i=github"/>
@@ -119,6 +158,6 @@ I enjoy building intelligent systems, analyzing data, and deploying scalable AI 
 
 ---
 
-# 💡 Quote
+# 💡 Favorite Quote
 
-> *"Artificial Intelligence is not replacing humans, it is empowering them."*
+> **"Artificial Intelligence is not replacing humans; it is empowering those who know how to use it."**
