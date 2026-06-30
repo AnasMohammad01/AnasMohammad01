@@ -129,14 +129,11 @@ Artificial Intelligence • Machine Learning • Deep Learning Engineer
 
 # 📫 Connect With Me
 
-<p align="center">
 
 <a href="https://github.com/AnasMohammad01" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
-
 &nbsp;&nbsp;&nbsp;&nbsp;
-<p align="center">
 <a href="https://www.linkedin.com/in/anas-mohammad-ba2923291" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
